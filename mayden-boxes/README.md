@@ -26,3 +26,6 @@ Redirect/display Order Summary after Checkout
 
 #Summary
 I took this as an opportunity for CPD and used frameworks that I do not use frequently at present.  The task was excellent in exposing many useful aspects of the React Framework, and how components and props behave.  I also took the opportunity to explore and compare a range of IDEs NetBeans, Atom, Eclipse before commencing the project.
+
+#GitHub
+https://github.com/sharries/MaydenBoxes.git
