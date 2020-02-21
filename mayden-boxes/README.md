@@ -3,7 +3,7 @@ Welcome to Mayden Boxes, thankyou for reviewing :)
 App developed in REACT, Node, and MongoDB - MERN Stack
 
 #Important
-To view please contact me 07935927755 with your Public facing IP address so that I can whitelist your access to the MongoDB - Note that there is an unresolved bug to add the order record at present.
+To view please contact me on mobile or email with your Public facing IP address so that I can whitelist your access to the MongoDB - Note that there is an unresolved bug to add the order record at present.
 
 I decided to challenge myself to learn new frameworks that I have hence REACT and MongoDB.  I also attempted in the time to ensure the HCI provided an effective user experience.
 
