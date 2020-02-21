@@ -11,6 +11,7 @@ It took additional time setting up the IDE environment (Eclipse) and resolving N
 
 #Starting
 Install frontend and backend Node Modules - npm install (in both / and /backend)
+Add the emailed .env file to the /backend folder
 At / - npm run start
 At /backend - npm start express
 
