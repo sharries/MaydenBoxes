@@ -15,10 +15,20 @@ At / - npm run start
 At /backend - npm start express
 
 Frontend port 3000, Backend port 5000
+See #Important above for MongoDB White Listing
+
+#Features implemented
+All views, including minor UX changes eg: Continue button before user has selected any boxes with Route blocked.  Views have used a bespoke CSS normaliser and custom css (Not Bootstrap)
+
+Props for tracking all boxes, strength and discount.
+
+All calculations for totals (except the 50box discount, currently a boolean for true if +50, would be implemented in the final view after checkout)
+
+MongoDB connection from Checkout (see below)
 
 #ToDo
 Fix DB Model to MongoDB - Had it working and tested in Insomnia but then I managed to break it - Will take some debugging at my end to check my model and the JSON object ;)
-Update Table summary with Strength and Discount
+Update Order table summary view with Strength and Discount information
 Redirect/display Order Summary after Checkout
 
 #Coding time
